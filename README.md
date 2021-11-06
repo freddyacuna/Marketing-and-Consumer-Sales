@@ -62,3 +62,14 @@ Considere el siguiente dataset marketing_campaign.csv, dicho dataset corresponde
 • AcceptedCmp2: 1 si el cliente aceptó la oferta en la segunda campaña, 0 en caso contrario
 
 • Respuesta: 1 si el cliente aceptó la oferta en la última campaña, 0 en caso contrario
+
+
+## Propuesta
+
+a) Limpiar los datos, elimine observaciones con NA 
+
+b) Analizar libremente la data y señaler patrones de consumidores.
+
+c) Utilizar al menos dos técnicas de clústeres y agrupar a los clientes.
+
+d) Realizar un análisis de componentes principales, muestrar los loadings y explicar para las 3 primeras componentes, señalando también la proporción de varianza explicada por las componentes. Se propone dar una explicación como base de las 3 primeras componentes, grafiquar los clientes en el dos dimensiones.
