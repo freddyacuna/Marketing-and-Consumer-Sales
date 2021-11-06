@@ -1,11 +1,13 @@
 # Marketing-and-Consumer-Sales
 
-Considere el siguiente dataset marketing_campaign.csv, dicho dataset corresponde a detalles de comportamiento de muchos consumidores, el dataset cuenta con las siguientes columnas que significan lo siguiente:
+Considere el siguiente dataset marketing_campaign.csv, dicho dataset corresponde a detalles de comportamiento de una muestra de consumidores para una compañía latinoamericana con sede en Santiago de Chile, el dataset cuenta con las siguientes columnas que significan lo siguiente:
 
 ## Gente
 
 • ID: identificador único del cliente
+
 • Year_Birth: año de nacimiento del cliente
+
 • Educación: nivel de educación del cliente
 • Marital_Status: estado civil del cliente
 • Ingresos: ingresos familiares anuales del cliente
