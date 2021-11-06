@@ -68,7 +68,7 @@ Considere el siguiente dataset marketing_campaign.csv, dicho dataset corresponde
 
 a) Limpiar los datos, elimine observaciones con NA 
 
-b) Analizar libremente la data y señaler patrones de consumidores.
+b) Analizar libremente la data y señalar patrones de consumidores.
 
 c) Utilizar al menos dos técnicas de clústeres y agrupar a los clientes.
 
